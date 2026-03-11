@@ -1,11 +1,11 @@
 # Learning GitHub
 
 Hi, I'm SPOORJITH
-I'm a beginner learning programming and GitHub.
+I'm a beginner learning programming, GitHub, Web Development, ...
 
 ## What I'm learning
 -> Python + DSA
--> Django, MySQL
+-> Django, MySQL, PostgreSQL, MangoDB
 -> HTML & CSS & JS (react.js)
 -> Git & GitHub
 
@@ -13,5 +13,7 @@ I'm a beginner learning programming and GitHub.
 > Upload practice code
 > Learn version control
 > Build projects step by step
+> Build Real World Projects
+> Open for opportunities
 
-Started learning (coding) : November 2024
+learning (coding) since : August 2024
